@@ -4,7 +4,7 @@
 
 ### 1.1 Brute Force Attack Detection and Mitigation
 
-- **Requirement**: The system must monitor login attempts handled by the Authentication microservice to detect brute force attacks and mitigate them.
+- **Requirement**: The system must monitor login attempts handled by the [Authentication](https://github.com/BUAdvDev2024/Authentication) microservice to detect brute force attacks and mitigate them.
   
 - **Details**:
   - **Integration with Authentication Service**: Receive real-time logs and events from the Authentication microservice regarding failed login attempts.
